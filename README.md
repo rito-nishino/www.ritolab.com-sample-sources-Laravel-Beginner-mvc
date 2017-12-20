@@ -12,3 +12,6 @@ laravel/respurces/views/beginner.blade.php
 
 ## ルーティング　web.php
 laravel/routes/web.php
+
+## Laravel5.5インストール後の初期設定と入門/簡単にMVCでHelloWorld＆データ受け渡しを行う
+https://www.ritolab.com/entry/48
